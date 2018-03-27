@@ -3,13 +3,13 @@
 #### Precondition
 Virtual Emulator has been already installed.
 ```
-`cd` sednor-chat-mobile
-`npm install`
+cd sednor-chat-mobile
+npm install
 ```
 
 # Usage
 
 ```
 Launch your virtual device
-`expo start`
+expo start
 ```
