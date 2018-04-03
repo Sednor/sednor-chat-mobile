@@ -11,5 +11,5 @@ npm install
 
 ```
 Launch your virtual device
-expo start
+exp start
 ```
